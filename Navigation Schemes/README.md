@@ -23,13 +23,13 @@ __Cons:__
 *  On screens that scroll-based, user's eyes can be distracted by the bar since new content comes from the bottom
 *  If the app also has a navigation bar, the content is squished in a smaller window -- not ideal when the user has to read a lot of text
 
-![demo](Media/Clock.mov)  
-![demo](Media/Flipboard.mov)  
-![demo](Media/YikYak.mov)  
-![demo](Media/Instagram.mov)  
-![demo](Media/Path.mov)  
-![demo](Media/Venmo.mov)  
-![demo](Media/Starbucks.mov)  
+![demo](Media/Clock.gif)  
+![demo](Media/Flipboard.gif)  
+![demo](Media/YikYak.gif)  
+![demo](Media/Instagram.gif)  
+![demo](Media/Path.gif)  
+![demo](Media/Venmo.gif)  
+![demo](Media/Starbucks.gif)  
 
 
 
